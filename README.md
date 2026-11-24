@@ -13,11 +13,11 @@ lorsqu'il franchit une ligne de contrôle, puis affiche les résultats dans un t
 
 | Tableau de bord | Capture d'une infraction |
 |---|---|
-![Dashboard](docs/apercu_dashboard.png) | ![Capture](docs/apercu_capture.png)  
+![Dashboard](docs/apercu_dashboard.png)  ![Capture](docs/apercu_capture.png)  
 
-![Répartition des vitesses](docs/répartition.png) | ![Données](docs/données.png) 
+![Répartition des vitesses](docs/répartition.png)  ![Données](docs/données.png) 
 
-![Vitesse par taux d'infraction](docs/variation.png) | | ![Vitesse](docs/vitesse.png)
+![Vitesse par taux d'infraction](docs/variation.png)  ![Vitesse](docs/vitesse.png)
 
 Sur les captures et la vidéo annotée :
 🟥 **rouge** = infraction · 🟩 **vert** = en règle après la ligne · 🟦 **bleu** = pas encore contrôlé · 🟨 **jaune** = ligne de contrôle.
