@@ -1,0 +1,25 @@
+# Environnements et cache Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Données personnelles / lourdes : NE PAS publier
+*.mp4
+*.avi
+*.mov
+captures/
+*.db
+*.csv
+
+# Modèles (se téléchargent automatiquement)
+*.pt
+*.onnx
+runs/
+
+# Fichier généré automatiquement par le moteur
+custom_bytetrack.yaml
+
+# Divers
+.env
+.DS_Store

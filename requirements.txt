@@ -1,0 +1,11 @@
+ultralytics>=8.4.0
+opencv-python
+numpy
+pytesseract
+requests
+fastapi
+uvicorn
+streamlit>=1.37
+pandas
+plotly
+pillow
