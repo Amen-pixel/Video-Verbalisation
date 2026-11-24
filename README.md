@@ -16,7 +16,7 @@ lorsqu'il franchit une ligne de contrôle, puis affiche les résultats dans un t
 
 | Répartition des vitesses | Données |
 |:---:|:---:|
-| <img src="docs/repartition.png" width="100%"> | <img src="docs/donnees.png" width="100%"> |
+| <img src="docs/répartition.png" width="100%"> | <img src="docs/données.png" width="100%"> |
 
 | Vitesse et taux d'infraction | Vitesse |
 |:---:|:---:|
