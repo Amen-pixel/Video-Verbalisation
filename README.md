@@ -11,7 +11,7 @@ lorsqu'il franchit une ligne de contrôle, puis affiche les résultats dans un t
 ## Aperçu
 
 | Tableau de bord | Capture d'une infraction |
-|:---:|:---:|
+|:---:|:---:| 
 | <img src="docs/apercu_dashboard.png" width="100%"> | <img src="docs/apercu_capture.png" width="100%"> |
 
 | Répartition des vitesses | Données |
