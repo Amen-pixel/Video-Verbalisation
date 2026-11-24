@@ -8,20 +8,22 @@
 
 Un système qui analyse une vidéo de circulation, suit chaque véhicule, estime sa vitesse, juge chaque véhicule **une seule fois**
 lorsqu'il franchit une ligne de contrôle, puis affiche les résultats dans un tableau de bord.
-
 ## Aperçu
 
 | Tableau de bord | Capture d'une infraction |
-|---|---|
-![Dashboard](docs/apercu_dashboard.png)  ![Capture](docs/apercu_capture.png)  
+|:---:|:---:|
+| <img src="docs/apercu_dashboard.png" width="100%"> | <img src="docs/apercu_capture.png" width="100%"> |
 
-![Répartition des vitesses](docs/répartition.png)  ![Données](docs/données.png) 
+| Répartition des vitesses | Données |
+|:---:|:---:|
+| <img src="docs/repartition.png" width="100%"> | <img src="docs/donnees.png" width="100%"> |
 
-![Vitesse par taux d'infraction](docs/variation.png)  ![Vitesse](docs/vitesse.png)
+| Vitesse et taux d'infraction | Vitesse |
+|:---:|:---:|
+| <img src="docs/variation.png" width="100%"> | <img src="docs/vitesse.png" width="100%"> |
 
 Sur les captures et la vidéo annotée :
 🟥 **rouge** = infraction · 🟩 **vert** = en règle après la ligne · 🟦 **bleu** = pas encore contrôlé · 🟨 **jaune** = ligne de contrôle.
-
 ## Comment ça marche
 
 ```
