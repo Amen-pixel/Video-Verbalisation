@@ -6,6 +6,8 @@
 
 ### Lien de démo : https://app.videas.com/share/nqPvSjEqGkLltbBJZbYxyvSRrd17lFbShDHixwq3v0o
 
+### Autre démo : https://app.videas.com/share/vLPXkBU68hhKTeA5XHl2t08vVCZG7tQIPkJssZTcHBY
+
 Un système qui analyse une vidéo de circulation, suit chaque véhicule, estime sa vitesse, juge chaque véhicule **une seule fois**
 lorsqu'il franchit une ligne de contrôle, puis affiche les résultats dans un tableau de bord.
 ## Aperçu
