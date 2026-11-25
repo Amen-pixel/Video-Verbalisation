@@ -4,7 +4,7 @@
 > Les vitesses sont des **estimations** produites par vision par ordinateur à partir d'une vidéo.
 > Il ne doit pas servir à verbaliser de vraies personnes.
 
-### Lien de démo : https://app.videas.com/share/XrN3GSpdFSZUWO2qI7DaB3HrIjPAtwa8cJzd0cKtwUQ
+### Lien de démo : https://app.videas.com/share/nqPvSjEqGkLltbBJZbYxyvSRrd17lFbShDHixwq3v0o
 
 Un système qui analyse une vidéo de circulation, suit chaque véhicule, estime sa vitesse, juge chaque véhicule **une seule fois**
 lorsqu'il franchit une ligne de contrôle, puis affiche les résultats dans un tableau de bord.
