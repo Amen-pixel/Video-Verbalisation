@@ -14,7 +14,7 @@ lorsqu'il franchit une ligne de contrôle, puis affiche les résultats dans un t
 |:---:|:---:| 
 | <img src="docs/apercu_dashboard.png" width="100%"> | <img src="docs/apercu_capture.png" width="100%"> |
 
-| Répartition des vitesses | Données |
+| Infraction | Données |
 |:---:|:---:|
 | <img src="docs/répartition.png" width="100%"> | <img src="docs/données.png" width="100%"> |
 
